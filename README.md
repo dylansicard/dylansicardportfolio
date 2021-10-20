@@ -2,5 +2,6 @@
 
 Section 1 Portfolio - Vanilla JS, CSS, HTML
 
-#link
+# Link
+
 https://dylansicard.github.io/dylansicardportfolio/
