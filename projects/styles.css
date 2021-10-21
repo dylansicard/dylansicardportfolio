@@ -1,0 +1,9 @@
+#projects-content {
+  display: grid;
+  grid-template-rows: [intro] 1fr [eyes] 1fr [bus]1fr] [pacmen] 1fr;
+}
+
+#content {
+  grid-row-start: content;
+  grid-row-end: eyes;
+}
