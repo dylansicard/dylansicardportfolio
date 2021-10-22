@@ -31,7 +31,7 @@ var pos = 0;
         newimg.height = 100;
 
         let position = setToRandom(window.innerWidth - newimg.width, window.innerHeight - newimg.height);
-        // select a random pacMan img
+        // select a random pacMan img **edited image path**
         newimg.src = `/dylansicardportfolio/projects/pacmen-exercise/images/PacMan${pacNum}.png`;
     
         
