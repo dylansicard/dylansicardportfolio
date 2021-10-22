@@ -32,7 +32,7 @@ var pos = 0;
 
         let position = setToRandom(window.innerWidth - newimg.width, window.innerHeight - newimg.height);
         // select a random pacMan img
-        newimg.src = `/dylansicardportfolio/projects/pacmen-exercise/PacMan${pacNum}.png`;
+        newimg.src = `/dylansicardportfolio/projects/pacmen-exercise/images/PacMan${pacNum}.png`;
     
         
         
