@@ -1,20 +1,20 @@
-# Pacmen
+# Real Time Bus Tracker
 
-<img src= "https://dylansicard.github.io/dylansicardportfolio/projects/pac-pic.PNG" width='300'/>
+<img src= "https://dylansicard.github.io/dylansicardportfolio/projects/map-pic.PNG" width='300'/>
 <br>
 
 ### Description
 
-This project utilizes **DOM manipulation** with a little CSS to create a simple game, in which you can add pacmen, and they bounce around the screen within the window object.
+This project utilizes **recursion**, along with the map api **Mapbox**. The project moves the marker through a bus route, stopping at each stop of the route and moving the marker there.
 <br>
 
 ### How to run:
 
-To run this project, simply head go to [This Page](https://dylansicard.github.io/dylansicardportfolio/projects/pacmen-exercise/index.html), click "add pacman" as many times as your heart desires, and then click run game.
+To run this project, simply head go to [This Page](https://dylansicard.github.io/dylansicardportfolio/projects/real-time-bus-tracker/index.html) and click "Show Stops Between MIT and Harvard".
 
 ### Future Improvements
 
-I would like to add the navbar in the future, to keep this within the navigation of my portfolio. Additionally, I'd like to change the container of the pacmen from the window object to a container, so that the pacmen don't cover up the buttons or navbar.
+I would like to work more with Mapbox in the future; I'd like to do some heatmaps showing various statistics. Also, I tried to implement my navbar on this page but ran into some bugs -- I'd like to come back to get the navbar implemented, to keep this within my portfolio.
 
 <br>
 <br>
